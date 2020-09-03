@@ -18,5 +18,5 @@ int main()
 			min = a;
 		}
 	}
-	printf("%d\n%d", min, max);
+	printf("max = %d\nmin = %d", min, max);
 }
