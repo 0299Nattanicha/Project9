@@ -19,4 +19,5 @@ int main()
 		}
 	}
 	printf("max = %d\nmin = %d", min, max);
+	return 0 ;
 }
